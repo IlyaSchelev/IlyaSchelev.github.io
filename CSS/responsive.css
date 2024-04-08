@@ -1,0 +1,60 @@
+/* 
+>=1200
+992 - 1199
+768 - 991
+576 - 768
+460 - 576
+414 - 460
+375 - 414
+320 - 375
+*/
+
+@media screen and (max-width: 1199px) {
+    
+}
+
+@media screen and (max-width: 992px) {
+    
+}
+
+@media screen and (max-width: 768px) {
+    
+}
+
+@media screen and (max-width: 576px) {
+    header > .container-fluid > .container nav ul li a{
+        font-size: 18px;
+    }
+}
+
+@media screen and (max-width: 460px) {
+    header > .container-fluid > .container nav ul li a{
+        font-size: 14px;
+        
+    }
+    
+    footer ul li{
+        font-size: 14px;
+    }
+}
+
+@media screen and (max-width: 414px) {
+    header > .container-fluid > .container nav ul li a{
+        font-size: 14px;
+        
+    }
+
+    footer ul li{
+        font-size: 14px;
+    }
+}
+
+@media screen and (max-width: 375px) {
+    header > .container-fluid > .container nav ul li a{
+        font-size: 14px;
+        
+    }
+    footer ul li{
+        font-size: 14px;
+    }
+}
